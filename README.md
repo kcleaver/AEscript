@@ -54,7 +54,7 @@ Written by Kyle Cleaver and Grant Shwartz
 
    b. Right click on the AERenderQ_CS6 batch script and choose Show Package Contents, navigate to /Contents/Resources/Scripts/main.scpt Double click on main.scpt and open in AppleScript editor (Windows users can access simply by purchasing a Mac!)
 
-   c. you will need to set the projectfile_path, render_cmd, and tell command example:
+   c. you will need to set the projectfile_path, render_cmd, and tell command example (given that your working from a directory on your desktop called AEscript):
 
       1. set projectfile_path1 to the "/Users/kcleaver/Desktop/project/data_es.aepx"
       2. set render_cmd1 to "'/Applications/Adobe After Effects CS6/aerender' -sound ON -project " & projectfile_path1
