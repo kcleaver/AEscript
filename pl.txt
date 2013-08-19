@@ -1,0 +1,25 @@
+<string>LIP_pl</string>
+<string>Line 1 Polish</string>
+<string>Line 2 Polish</string>
+<string>Line 3 Polish</string>
+<string>Line 4 Polish</string>
+<string>Line 5 Polish</string>
+<string>Line 6 Polish</string>
+<string>Line 7 Polish</string>
+<string>Line 8 Polish</string>
+<string>Line 9 Polish</string>
+<string>Line 10 Polish</string>
+<string>Line 11 Polish</string>
+<string>Line 12 Polish</string>
+<string>Front</string>
+<string>Left</string>
+<string>Top</string>
+<string>Back</string>
+<string>Right</string>
+<string>Bottom</string>
+<string>Custom View 1</string>
+<string>Custom View 2</string>
+<string>Custom View 3</string>
+<string>Markers</string>
+<string>HDTV (Rec. 709) Y'CbCr</string>
+<string>Text</string>

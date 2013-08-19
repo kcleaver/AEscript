@@ -1,0 +1,25 @@
+<string>LIP_es</string>
+<string>Line 1 Spanish</string>
+<string>Line 2 Spanish</string>
+<string>Line 3 Spanish</string>
+<string>Line 4 Spanish</string>
+<string>Line 5 Spanish</string>
+<string>Line 6 Spanish</string>
+<string>Line 7 Spanish</string>
+<string>Line 8 Spanish</string>
+<string>Line 9 Spanish</string>
+<string>Line 10 Spanish</string>
+<string>Line 11 Spanish</string>
+<string>Line 12 Spanish</string>
+<string>Front</string>
+<string>Left</string>
+<string>Top</string>
+<string>Back</string>
+<string>Right</string>
+<string>Bottom</string>
+<string>Custom View 1</string>
+<string>Custom View 2</string>
+<string>Custom View 3</string>
+<string>Markers</string>
+<string>HDTV (Rec. 709) Y'CbCr</string>
+<string>Text</string>

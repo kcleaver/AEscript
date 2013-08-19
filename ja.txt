@@ -1,0 +1,25 @@
+<string>LIP_ja</string>
+<string>Line 1 Japanesse</string>
+<string>Line 2 Japanesse</string>
+<string>Line 3 Japanesse</string>
+<string>Line 4 Japanesse</string>
+<string>Line 5 Japanesse</string>
+<string>Line 6 Japanesse</string>
+<string>Line 7 Japanesse</string>
+<string>Line 8 Japanesse</string>
+<string>Line 9 Japanesse</string>
+<string>Line 10 Japanesse</string>
+<string>Line 11 Japanesse</string>
+<string>Line 12 Japanesse</string>
+<string>Front</string>
+<string>Left</string>
+<string>Top</string>
+<string>Back</string>
+<string>Right</string>
+<string>Bottom</string>
+<string>Custom View 1</string>
+<string>Custom View 2</string>
+<string>Custom View 3</string>
+<string>Markers</string>
+<string>HDTV (Rec. 709) Y'CbCr</string>
+<string>Text</string>

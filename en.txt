@@ -1,0 +1,25 @@
+<string>LIP_en</string>
+<string>Lexmark Invoice Processing</string>
+<string>and take advantage of discounts</string>
+<string>Avoid late fees</string>
+<string>and avoid shipping costs</string>
+<string>Save time</string>
+<string>is ready to be processed.</string>
+<string>Notification is sent that the invoice</string>
+<string>Documents are automatically routed.</string>
+<string>Scan and key in data at the device.</string>
+<string>Efficiently collect and manage invoices.</string>
+<string>with Lexmark Invoice Processing</string>
+<string>Save Time and Money</string>
+<string>Front</string>
+<string>Left</string>
+<string>Top</string>
+<string>Back</string>
+<string>Right</string>
+<string>Bottom</string>
+<string>Custom View 1</string>
+<string>Custom View 2</string>
+<string>Custom View 3</string>
+<string>Markers</string>
+<string>HDTV (Rec. 709) Y'CbCr</string>
+<string>Text</string>

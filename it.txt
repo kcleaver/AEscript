@@ -1,0 +1,25 @@
+<string>LIP_it</string>
+<string>Line 1 Italian</string>
+<string>Line 2 Italian</string>
+<string>Line 3 Italian</string>
+<string>Line 4 Italian</string>
+<string>Line 5 Italian</string>
+<string>Line 6 Italian</string>
+<string>Line 7 Italian</string>
+<string>Line 8 Italian</string>
+<string>Line 9 Italian</string>
+<string>Line 10 Italian</string>
+<string>Line 11 Italian</string>
+<string>Line 12 Italian</string>
+<string>Front</string>
+<string>Left</string>
+<string>Top</string>
+<string>Back</string>
+<string>Right</string>
+<string>Bottom</string>
+<string>Custom View 1</string>
+<string>Custom View 2</string>
+<string>Custom View 3</string>
+<string>Markers</string>
+<string>HDTV (Rec. 709) Y'CbCr</string>
+<string>Text</string>
